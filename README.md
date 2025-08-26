@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @codekeyboard
-- 👀 I’m interested in Artifici lIntelligence
-- 📫 Mail me at saim.codecraft@gmail.com
+
